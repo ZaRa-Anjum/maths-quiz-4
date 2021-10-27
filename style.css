@@ -1,0 +1,72 @@
+body
+{
+	background-image: url("hand-painted-watercolor-abstract-watercolor-background_23-2149012404.jpg");
+    background-repeat: no-repeat;
+    background-size: 1700px 1100px;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width: 30%;
+		height: 150px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#size {
+width: 30px;
+height: 30px;
+}
+#button {
+    background-color: turquoise;
+}
+#math {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#button {
+    height: 30px;
+    width: 150px;
+}
+#label {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: salmon;
+}
+input:hover{
+	background-color: lightblue;
+}
+div:hover{
+	border: 5px solid rgb(173, 216, 230);
+	width: 35%;
+}
+h1{
+    font-family: cursive;
+}
